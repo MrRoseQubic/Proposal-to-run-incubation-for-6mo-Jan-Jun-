@@ -1,4 +1,4 @@
-# **Proposal to run Incubation Program and coordination support for 6mo**
+# **Proposal to run Incubation Program for 6mo (Jan-Jun)**
 
 Amount: 20,480,000,000 Billion QUBIC / month  
 Destination Wallet: XMVITNYABDHNJHCWLTJBVRFJWXRCYWKIKJVIBUGHVBRJXESLVSWIKGUBNAWM  
