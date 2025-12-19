@@ -1,8 +1,8 @@
 # **Proposal to run Incubation Program for 6mo (Jan-Jun)**
 
-Amount: 20,480,000,000 Billion QUBIC / month  
+Amount: 21,960,000,000 Billion QUBIC / month  
 Destination Wallet: XMVITNYABDHNJHCWLTJBVRFJWXRCYWKIKJVIBUGHVBRJXESLVSWIKGUBNAWM  
-Rate Used: 1 billion QUBIC \= 634 USDT
+Rate Used: 1 billion QUBIC \= 590 USDT
 
 *Note: Assuming the “interval payment” feature is already deployed. Funds can be released monthly, there is no need to have a separate treasury.* 
 
